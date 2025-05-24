@@ -5,6 +5,7 @@ import'./index.css'
 const App = () => {
   return (
     <div>
+      {/* Calculator component call */}
       <Calculator/>
     </div>
   )
